@@ -1,0 +1,57 @@
+[
+    {
+        "id":1,
+        "title":"Concerts and Music Festivals",
+        "description":"Experience the magic of live music like never before! Dive into a world of pulsating rhythms, electrifying performances, and unforgettable melodies. Our Concerts and Music Festivals bring together renowned artists from various genres to create an atmosphere of pure joy and euphoria. Whether you're a fan of rock, pop, jazz, classical, or EDM, there's something for everyone. Join us in celebrating the universal language of music, where every beat and note has the power to transcend boundaries and connect souls. Get ready to groove, sing along, and create memories that will last a lifetime. Don't miss your chance to be part of the ultimate music experience!",
+        "price":"12.99",
+        "image":"https://i.ibb.co/Nm1V803/music.jpg",
+        "shortDescription":"Immerse yourself in the magic of live music at our Concerts and Music Festivals."
+        
+    },
+    {
+        "id":2,
+        "title":"Carnival of Dreams",
+        "description":"Join us for the most enchanting event of the year - the 'Carnival of Dreams'! This spectacular carnival brings together a world of wonder, excitement, and entertainment under one roof. Get ready to be transported to a realm of imagination and joy, where dreams come to life.",
+        "price":"10.99",
+        "image":"https://i.ibb.co/k4qz96s/carnival.webp",
+        "shortDescription":"Experience the magic at the 'Carnival of Dreams' - where imagination knows no bounds!"
+        
+    },
+    {
+        "id":3,
+        "title":"Sports Events",
+        "description":"Experience the thrill of competitive sports with our exciting lineup of sporting events. From adrenaline-pumping football matches to elegant golf tournaments, we've got it all covered. Join us for a day of action, competition, and camaraderie as athletes from around the world showcase their skills and determination. Whether you're a die-hard sports fan or just looking for a fun day out, our Sports Events promise unforgettable moments and unforgettable memories.",
+        "price":"10.99",
+        "image":"https://i.ibb.co/vsq8kxx/sport.jpg",
+        "shortDescription":"Get ready for sports excitement like never before! Join us for thrilling matches and tournaments."
+        
+    },
+    {
+        "id":4,
+        "title":"Comedy Shows",
+        "description":"Join us for a night of laughter and entertainment at our Comedy Shows event. Our lineup of hilarious comedians will leave you in stitches with their witty humor and side-splitting jokes. Get ready for an unforgettable evening of comedy that will lift your spirits and make you laugh until your cheeks hurt!",
+        "price":"11.99",
+        "image":"https://i.ibb.co/rkqJCSC/xszfsdf.webp",
+        "shortDescription":"Laugh your heart out! Comedy Shows night with top comedians."
+        
+    },
+    {
+        "id":5,
+        "title":"Film Screenings and Premieres",
+        "description":"Experience the magic of cinema at our Film Screenings and Premieres event! Join us for an unforgettable evening filled with exclusive movie screenings and red carpet premieres. Rub shoulders with filmmakers, actors, and fellow movie enthusiasts as you watch the latest cinematic masterpieces on the big screen.",
+        "price":"12.99",
+        "image":"https://i.ibb.co/WyRDhM1/istockphoto-165807007-612x612.jpg",
+        "shortDescription":"Lights, camera, action! Join us for a night of movie magic at our Film Screenings and Premieres event."
+        
+    },
+    {
+        "id":6,
+        "title":"Theater and Performing Arts",
+        "description":"Immerse yourself in the captivating world of theater and performing arts. From mesmerizing stage productions to heartwarming musicals, our events promise to transport you to a realm of creativity and expression. Experience the magic of live performances, where talented actors, dancers, and musicians bring stories to life. Whether you're a seasoned theatergoer or a first-time attendee, our carefully curated events offer something for everyone. Join us for an unforgettable journey through the world of drama, comedy, music, and dance.",
+        "price":"14.99",
+        "image":"https://i.ibb.co/YczmL2x/13038-Musical-theatre-students-performing.jpg",
+        "shortDescription":"Explore the enchanting world of theater and performing arts with our mesmerizing live events."
+        
+    }
+  
+]

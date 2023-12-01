@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@500;600&display=swap');
+
+
+body{
+  font-family: 'Mulish', sans-serif;
+}
+
+ nav a.active{
+  color: #14e8a8;
+  text-decoration: underline;
+} 
